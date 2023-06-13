@@ -7,7 +7,11 @@
 ![EY-WEB](https://res.cloudinary.com/dv4cwmc38/image/upload/v1686618389/RCA-FIGMA_biuqyt.png)
 
 ## Descripción del proyecto
-Este proyecto es una aplicación web que permite la gestión de inventario mediante una tabla visualizada en un navegador. La tabla incluirá información como el índice (generado automáticamente), código de artículo, nombre del artículo, descripción del artículo y cantidad disponible del artículo. La aplicación también permite realizar operaciones sobre la información en la tabla mediante botones situados debajo de la misma. Estas operaciones incluyen la inserción de un nuevo artículo, la modificación de un artículo existente y la eliminación de un artículo. Cada operación se realiza en un formulario independiente y al finalizar la transacción, la página inicial se actualiza automáticamente.
+El producto de software es una plataforma de alquiler de automóviles que conecta a arrendadores, arrendatarios y mecánicos. Los arrendadores pueden publicar sus vehículos disponibles para alquilar y los arrendatarios pueden buscar y reservar los que se ajusten a sus necesidades.
+
+Además, la plataforma ofrece diferentes niveles de suscripción para los arrendatarios, que les permiten resolver problemas con el vehículo en caso de un choque, por ejemplo. Los mecánicos están disponibles a través de la plataforma para proporcionar asistencia en caso de cualquier problema técnico o de mantenimiento.
+
+En resumen, esta plataforma de alquiler de automóviles no solo facilita el proceso de alquiler, sino que también proporciona una solución integral para resolver problemas técnicos y de mantenimiento, lo que brinda tranquilidad y comodidad tanto a los arrendadores como a los arrendatarios.
 
 ## Tecnologías usadas
 
