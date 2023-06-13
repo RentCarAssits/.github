@@ -21,7 +21,7 @@ Fronted: La app Web está desarrollada con el framework [Angular.io](https://ang
 
 ## Swagger Api Documentation
 
-Dirección: https://ey-backend.azurewebsites.net/swagger/index.html
+Dirección: https://rca.azurewebsites.net/api
 
 [![image.png](https://res.cloudinary.com/dv4cwmc38/image/upload/v1686618625/swagger_qkosqu.png)](https://rca.azurewebsites.net/api)
 
