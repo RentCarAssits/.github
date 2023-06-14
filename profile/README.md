@@ -4,7 +4,7 @@
 <h2><a href='https://rca.azurewebsites.net/api' target="_blank">RCA-API</a> | <a href='https://rca-parsimonia.netlify.app/'>RCA-WEB</a></h2>
 </div>
 
-![EY-WEB](https://res.cloudinary.com/dv4cwmc38/image/upload/v1686618389/RCA-FIGMA_biuqyt.png)
+![EY-WEB](https://res.cloudinary.com/dzhj9r7lf/image/upload/v1686757969/RCA/feuccvxs2bsraxvzd5xx.png)
 
 ## Descripción del proyecto
 El producto de software es una plataforma de alquiler de automóviles que conecta a arrendadores, arrendatarios y mecánicos. Los arrendadores pueden publicar sus vehículos disponibles para alquilar y los arrendatarios pueden buscar y reservar los que se ajusten a sus necesidades.
