@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Rent Car Assists - Parsimonia</h1>
 
-<h2><a href='https://rca.azurewebsites.net/api' target="_blank">RCA-API</a> | <a href='https://rca-parsimonia.netlify.app/'>RCA-WEB</a> | <a href='https://rca-app.netlify.app/'>RCA-APP</a></h2>
+<h2><a href='https://rca-iot-parsimonia.azurewebsites.net/api' target="_blank">RCA-API</a> | <a href='https://rca-parsimonia.netlify.app/'>RCA-WEB</a> | <a href='https://rca-app.netlify.app/'>RCA-APP</a></h2>
 </div>
 
 ![EY-WEB](https://res.cloudinary.com/dzhj9r7lf/image/upload/v1686757969/RCA/feuccvxs2bsraxvzd5xx.png)
